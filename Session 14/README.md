@@ -12,6 +12,7 @@ The topic of this session is **Data Visualization and Data Storytelling**. This 
 
   - What is data visualization
   - What is data storytelling
+  - Patterns and principles
   - How to create a data story (with Tableau)
   
 ## How to use this content
@@ -23,6 +24,17 @@ The topic of this session is **Data Visualization and Data Storytelling**. This 
   - All analysis files have been created with Tableau.
   
 ## FAQ
+
+### How are Gestalt principles and data visualization linked?
+
+Check these links:
+
+- Gestalt Principles for Data Visualization: [Similarity, Proximity & Enclosure](https://emeeks.github.io/gestaltdataviz/section1.html)
+- Gestalt Principles for Data Visualization: [Common Fate, Parallelism and Connectedness](https://emeeks.github.io/gestaltdataviz/section2.html)
+- Gestalt Principles for Data Visualization: [Proximity and Past Experience with Network Visualization](https://emeeks.github.io/gestaltdataviz/section3.html)
+- Gestalt Principles for Data Visualization: [Figure/Ground and Metastability](https://emeeks.github.io/gestaltdataviz/section4.html)
+
+Another interesting discussion can be found [here](https://www.fusioncharts.com/blog/how-to-use-the-gestalt-principles-for-visual-storytelling-podv/).
  
 ### How to improve Tableau performance
  
