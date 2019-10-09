@@ -104,3 +104,4 @@ use <table_name>;
   - [The Object-Oriented Database System Manifesto](https://www.cs.cmu.edu/~clamen/OODBMS/Manifesto/) by M. Atkinson, F. Bancilhon, D. DeWitt, K. Dittrich, D. Maier, and S. Zdonik.
   - [The Third-Generation Database System Manifesto](https://dl.acm.org/citation.cfm?id=390001) by Michael Stonebraker, Lawrence A. Rowe, Bruce G. Lindsay, James Gray, Michael Carey, Michael Brodie, Philip Bernstein, and David Beech.
   - [The Third Manifesto](http://www.thethirdmanifesto.com) (TTM), by Hugh Darwen and C.J. Date
+  - [SQL Mysteries](https://github.com/NUKnightLab/sql-mysteries)
