@@ -37,3 +37,4 @@ The following references are academic papers that present advance topics:
   - Automatic approach for generating ETL operators. [arXiv:1212.6051](https://arxiv.org/abs/1212.6051)
   - Outlier Detection Techniques for SQL and ETL Tuning. [arXiv:1203.4163](https://arxiv.org/abs/1203.4163)
   - Outlier detection from ETL Execution trace. [arXiv:1203.1878](https://arxiv.org/abs/1203.1878)
+  - DOD-ETL: Distributed On-Demand ETL for Near Real-Time Business Intelligence. [arXiv:1901.08151](https://arxiv.org/abs/1901.08151) 
