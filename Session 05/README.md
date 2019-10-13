@@ -47,3 +47,10 @@ Check this article: [https://www.catswhocode.com/blog/10-sql-tips-to-speed-up-yo
 ### How to backup a database in MySQL?
 
 Check this [explanation](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html).
+
+### References
+
+- Designing and Implementing Data Warehouse for Agricultural Big Data. [arXiv:1905.12411](https://arxiv.org/abs/1905.12411)
+- Building an Effective Data Warehousing for Financial Sector. [arXiv:1709.05874](https://arxiv.org/abs/1709.05874)
+- Data Warehouse Benchmarking with DWEB. [arXiv:1701.08053](https://arxiv.org/abs/1701.08053)
+- Benchmarking data warehouses. [arXiv:1701.00399](https://arxiv.org/abs/1701.00399)
