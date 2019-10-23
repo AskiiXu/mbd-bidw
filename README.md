@@ -90,7 +90,7 @@ We can access student licenses due to the Academic Partnership. Tableau has vers
   - Update your license in the application: Help menu -> Manage Product Keys
   - Download the driver for MySQL from [here](https://www.tableau.com/support/drivers)
 
-**Install Dremio**
+**(Optional) Dremio**
 
 We will use the community version of Dremio Server. It can be downloaded from this [link](https://www.dremio.com/download/). Dremio server requires Java to work. Then:
 
