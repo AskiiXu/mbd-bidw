@@ -92,14 +92,7 @@ We can access student licenses due to the Academic Partnership. Tableau has vers
 
 **(Optional) Dremio**
 
-We will use the community version of Dremio Server. It can be downloaded from this [link](https://www.dremio.com/download/). Dremio server requires Java to work. Then:
-
-  - Install Dremio using the installer.
-  - Start Dremio:
-      - [Windows]: Start from the Start Menu.
-      - [Mac]: Launch Dremio from Applications. Start Dremio from the Start Menu.
-  - You can now navigate to the Dremio UI at http://localhost:9047.
-  - Download and install Dremio ODBC for your OS from https://docs.dremio.com/drivers/
+We will illustrate the connectivity against a pool of resources. It requires docker. It can be downloaded from this [link](https://www.dremio.com). Dremio server requires Java to work. Then:
 
 **(Optional) Atom**
 
