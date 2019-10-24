@@ -92,7 +92,7 @@ We can access student licenses due to the Academic Partnership. Tableau has vers
 
 **(Optional) Dremio**
 
-We will illustrate the connectivity against a pool of resources. It requires docker. It can be downloaded from this [link](https://www.dremio.com). Dremio server requires Java to work. Then:
+We will illustrate the connectivity against a pool of resources. It can be downloaded from this [link](https://www.dremio.com). One of the options is using [docker](https://www.docker.com). Therefore it requires to install first docker and the download the docker file.
 
 **(Optional) Atom**
 
