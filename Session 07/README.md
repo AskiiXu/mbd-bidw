@@ -91,9 +91,9 @@ This is caused by a bug in one of the low-level libraries and is triggered by th
 
 inline before  "-XX:MaxPermSize=256m" to have:
 
-...
+``` 
 if "%PENTAHO_DI_JAVA_OPTIONS%"=="" set PENTAHO_DI_JAVA_OPTIONS="-Xms1024m" "-Xmx2048m" "-Duser.country=US" "-Duser.language=en" "-XX:MaxPermSize=256m"
-...
+``` 
 
 ### What can I do to increase the memory limit for PDI?
 
