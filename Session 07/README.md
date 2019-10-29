@@ -81,7 +81,19 @@ sudo rm -rf jdk*
 
 ``` 
 java -jar launcher\launcher.jar -lib ..\libswt\win64
-``` 
+```
+
+### What can I do if I have the following problem "ERROR [XulParser] handler not found: W?NDOW"?
+
+This is caused by a bug in one of the low-level libraries and is triggered by the Turkish locale, which translates lowercase 'i' into a character that is not a latin upper case 'i'. The issue can be resolved configuring the spoon.bat by adding:
+
+"-Duser.country=US" "-Duser.language=en"
+
+inline before  "-XX:MaxPermSize=256m" to have:
+
+...
+if "%PENTAHO_DI_JAVA_OPTIONS%"=="" set PENTAHO_DI_JAVA_OPTIONS="-Xms1024m" "-Xmx2048m" "-Duser.country=US" "-Duser.language=en" "-XX:MaxPermSize=256m"
+...
 
 ### What can I do to increase the memory limit for PDI?
 
