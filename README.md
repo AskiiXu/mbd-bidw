@@ -55,7 +55,7 @@ We will use the community version of Pentaho Data Integration (a.k.a PDI). It ca
     - [Mac] Move the data-integration folder into Applications folder
     - [Windows] Move the data-integration folder into C:/ folder
   - Open PDI
-    - [Windows] Double-click spoon.bat inside data-integration folder
+    - [Windows] Double-click spoon.bat inside data-integration folder. Optional: create a [shortcut](https://www.howtogeek.com/436615/how-to-create-desktop-shortcuts-on-windows-10-the-easy-way/).
     - [Mac] Open the terminal and execute:
     
 ```
