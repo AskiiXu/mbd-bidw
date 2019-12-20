@@ -44,3 +44,5 @@ To understand what LOD are check this [link](https://onlinehelp.tableau.com/curr
   - [Create Custom Fields with Calculations](https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.html)
   - [Create Parameters](https://onlinehelp.tableau.com/current/pro/desktop/en-us/parameters_create.html)
   - [Richard Brath - Techniques for adding diverse contextual data into visualizations](https://vimeo.com/304321201)
+  - [Happy Hues](https://www.happyhues.co/palettes/17)
+  - [Viz Palette](https://projects.susielu.com/viz-palette)
