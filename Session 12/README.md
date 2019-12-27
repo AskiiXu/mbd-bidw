@@ -38,7 +38,15 @@ Many options: [Silota](http://www.silota.com), [Metabase](https://www.metabase.c
 Check [Meltano](https://gitlab.com/meltano/meltano#meltano-model)
   
 ## References
-  
+
+  - Tableau:
+    - [Shelves and Cards Reference](https://onlinehelp.tableau.com/current/pro/desktop/en-us/buildmanual_shelves.htm)
+    - [Change the Type of Mark in the View](https://onlinehelp.tableau.com/current/pro/desktop/en-us/viewparts_marks_marktypes.htm)
+    - [Control the Appearance of Marks in the View](https://onlinehelp.tableau.com/current/pro/desktop/en-us/viewparts_marks_markproperties.htm#ColorProp)
+    - [Filter Data from Your Views](https://onlinehelp.tableau.com/current/pro/desktop/en-us/filtering.htm)
+    - [Analyze Data](https://onlinehelp.tableau.com/current/pro/desktop/en-us/analyze.htm)
+    - [Tableau Resources](https://public.tableau.com/en-us/s/resources)
+    - [Tableau Extensions Gallery](https://extensiongallery.tableau.com)
    - [Data + Design](https://infoactive.co/data-design/titlepage01.html)
    - [Visualizing Data](http://www.visualisingdata.com/resources/)
    - [The Extreme Presentation™ Method](https://extremepresentation.com)
