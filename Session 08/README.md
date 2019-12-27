@@ -56,6 +56,17 @@ Check this [explanation](https://help.pentaho.com/Documentation/8.0/Products/Dat
 
 ![Comparison](http://kettle.bleuel.com/wp-content/uploads/2016/04/MDI-Static-vs-MDI.png)
 
+### Best practices in Data Integration Projects
+
+There are some best practices for PDI and MySQL:
+
+ - Using an autoincremental PK can be slow, creating a sequence reduces the time.
+ - Declare PK as BIGINT(), never as a VARCHAR().
+ - If possible avoid Vlookup step (for example, using a sequence and persisting in the clean data set)
+ - Create simple independent ETL flows, instead of one complex ETL
+ - "Table Output" is much faster than "Insert/update"
+ - If possible use Bulk Loading. For MAC we can use Bulk Load Transformation, or in general we can force the process adding "?useServerPrepStmts=false&rewriteBatchedStatements=true" to the URL connection.
+
 ### Key criteria for selecting ETL tools
 
 When selecting an ETL tool, it is recommended to consider, at least, the following criteria: 

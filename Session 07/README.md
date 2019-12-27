@@ -18,9 +18,9 @@ The topic of this session is **Data Integration** (in particular, ETL). This rep
 
   - Watch the videos
   - Download the folder
-  - If you want to reproduce download the dataset (customer_data.csv) and install the programs
+  - If you want to reproduce download the dataset (customer_data.csv) and install the programs (in case it was not done before)
   - Required Software:
-    - JDK v8
+    - JDK v8 (latest version)
     - Pentaho Data Integration (latest version)
   
 ## What you can learn in the videos
@@ -119,7 +119,7 @@ And many more proprietary options: [Informatica](https://www.informatica.com), [
 
 Yes. Check the following links: [1](https://github.com/pawl/awesome-etl) and [2](https://github.com/pditommaso/awesome-pipeline).
 
-### Are useful integration services beyond Business Intelligence?
+### Do we need integration services beyond Business Intelligence?
 
 Yes. Review this interesting discussion about the topic in Netflix: [Delta: A Data Synchronization and Enrichment Platform](https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee).
 
