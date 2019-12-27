@@ -26,7 +26,7 @@ A DW/BI must have, at least, the developer and production environments.
  
 ### Is it recommended to use a Control Version System in DW/BI?
  
-Yes. It is recommended to use a version control system (SCM) to version all artifacts created during the project: (schema, sql scripts, data, etls, reports,...). Some options: [git](https://git-scm.com), [SVN](https://subversion.apache.org/), [CVS](http://www.nongnu.org/cvs/).
+Yes. It is recommended to use a version control system (SCM) to version all artefacts created during the project: (schema, sql scripts, data, etls, reports,...). Some options: [git](https://git-scm.com), [SVN](https://subversion.apache.org/), [CVS](http://www.nongnu.org/cvs/).
 
 ### Agile Methodologies. What are you talking about?
 

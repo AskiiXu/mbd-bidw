@@ -30,7 +30,7 @@ If using multidimensional architecture, check this [article](https://www.kimball
 
 ## References
 
-The following references are academic papers that present advance topics:
+The following references are academic papers that present advanced topics:
 
   - Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. [arXiv:1409.1639](https://arxiv.org/abs/1409.1639)
   - Two-level Data Staging ETL for Transaction Data. [arXiv:1409.1636](https://arxiv.org/abs/1409.1636)
