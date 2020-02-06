@@ -22,7 +22,7 @@ This repository contains all necessary inputs to run the course hands-on labs.
 **Install Java**
 
   - Check if you have previous Java installed in your system If have more than one, uninstall all of them and follow the steps. If you already have Java JDK v8, it is not required to follow the steps.
-  - Download Java JDK v8 from: http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html (in our case: Java SE 8u231 or later). It may be possible you must create a new Oracle Account to download the JDK.
+  - Download Java JDK v8 from: http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html (in our case: Java SE 8u241 or later). It may be possible you must create a new Oracle Account to download the JDK.
   - Install and follow the instructions
   - [Optional] Instead of using Oracle Java JDK, you can use
     - [Amazon Correto](https://aws.amazon.com/tw/corretto/). In particular [version 8](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html). Consider the right installer for your OS. This is a long-term support production-ready distribution of the Open Java Development Kit (OpenJDK) supported by Amazon. 
@@ -46,7 +46,7 @@ Remember to start the server to be able to use the database. Open MySQL Workbenc
 
 **Install PDI**
 
-We will use the community version of Pentaho Data Integration (a.k.a PDI, previously known as Kettle). It can be downloaded from this [link](https://sourceforge.net/projects/pentaho/files/Pentaho%208.3/client-tools/) (in our case: pdi-ce-8.3.0.0-371.zip).
+We will use the community version of Pentaho Data Integration (a.k.a PDI, previously known as Kettle). It can be downloaded from this [link](https://sourceforge.net/projects/pentaho/files/Pentaho%209.0/client-tools/) (in our case: pdi-ce-9.0.0.0-423.zip).
 
   - Download the file, unzip and follow these instructions:
     - [Mac] Move the data-integration folder into Applications folder

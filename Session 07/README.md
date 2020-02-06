@@ -123,6 +123,10 @@ Yes. Check the following links: [1](https://github.com/pawl/awesome-etl) and [2]
 
 Yes. Review this interesting discussion about the topic in Netflix: [Delta: A Data Synchronization and Enrichment Platform](https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee).
 
+### I hate regular expressions, but I need them. What can I do
+
+Check the site: [https://ihateregex.io](https://ihateregex.io)
+
 ## References
 
   - [Hitachi Ventara Pentaho - Documentation](https://help.pentaho.com/Documentation/)
