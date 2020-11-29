@@ -14,7 +14,7 @@ This repository contains all necessary inputs to run the course hands-on labs.
 ## Software Installation
 
   - **Data Warehouse**: MySQL (database) and MySQL Workbench (database modeling and SQL development)
-  - **ETL**: Pentaho Data Integration (PDI)
+  - **ETL**: Pentaho Data Integration (PDI) or Apache HOP (Hop Orchestration Platform)
   - **Business Intelligence/Data Visualization**: Tableau Desktop
 
 ### Steps
@@ -44,9 +44,9 @@ This repository contains all necessary inputs to run the course hands-on labs.
 
 Remember to start the server to be able to use the database. Open MySQL Workbench and create a new connection using the right user and password and the standard parameters for configuration.
 
-**Install PDI**
+**Install PDI or HOP**
 
-We will use the community version of Pentaho Data Integration (a.k.a PDI, previously known as Kettle). It can be downloaded from this [link](https://sourceforge.net/projects/pentaho/files/Pentaho%209.0/client-tools/) (in our case: pdi-ce-9.0.0.0-423.zip).
+We will use the community version of Pentaho Data Integration (a.k.a PDI, previously known as Kettle). It can be downloaded from this [link](https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/client-tools/) (in our case: pdi-ce-9.1.0.0-324.zip).
 
   - Download the file, unzip and follow these instructions:
     - [Mac] Move the data-integration folder into Applications folder
@@ -76,6 +76,8 @@ sudo xattr -dr com.apple.quarantine /Applications/data-integration/Data\ Integra
     - Open PDI
     - Go the tools menu > Marketplace > MySQL Plugin and install
     - Restart PDI
+
+In case of using Apache HOP, download it from here [https://hop.apache.org/download/download/](https://hop.apache.org/download/download/) and follow the instructions from (here)[https://hop.apache.org/manual/latest/getting-started.html] to start it.
 
 **Install Tableau Desktop**
 
